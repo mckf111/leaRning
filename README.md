@@ -1,0 +1,1 @@
+Informal hitchhiker's guide to R language.
